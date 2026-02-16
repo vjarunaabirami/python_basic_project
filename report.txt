@@ -1,0 +1,27 @@
+STUDENT PERFORMANCE REPORT
+========================================
+
+Total Students: 4
+
+Class Average per Subject:
+Math: 81.25
+Physics: 82.00
+Chemistry: 82.50
+Biology: 84.25
+
+Overall Class Average: 82.50
+
+Top 3 Students:
+Carol White (S003) - Avg: 91.25
+Alice Johnson (S001) - Avg: 88.75
+Bob Smith (S002) - Avg: 78.75
+
+Students Scoring Above 90 in Any Subject:
+Alice Johnson (S001)
+Carol White (S003)
+
+Subject-wise Highest and Lowest Scores:
+Math -> Highest: Carol White (92), Lowest: David Brown (70)
+Physics -> Highest: Alice Johnson (90), Lowest: David Brown (68)
+Chemistry -> Highest: Carol White (95), Lowest: David Brown (72)
+Biology -> Highest: Alice Johnson (92), Lowest: David Brown (75)
